@@ -1,6 +1,6 @@
-# Vue-Instagram
+# Hajagram
 
-This template should help get you started developing with Vue 3 in Vite.
+The project involved developing an Instagram-like application that allows users to view, upload, and like posts. It included the integration of APIs to facilitate image uploads and manage interactions with posts.
 
 ## Recommended IDE Setup
 
